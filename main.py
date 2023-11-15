@@ -1,1 +1,1 @@
-print("Thanks Amit.")
+print("Thanks Amit and shalom Ido")
